@@ -1,6 +1,6 @@
 {
-	"surrealdb_endpoint": "http://localhost:8000",
-	"auth0_domain": "YOUR_AUTH0_DOMAIN",
-	"auth0_client_id": "YOUR_AUTH0_CLIENT_ID",
-	"auth0_audience": "YOUR_AUTH0_AUDIENCE"
+	"surrealdb_endpoint": "https://osm.gander.tools:8443",
+	"auth0_domain": "gander.eu.auth0.com",
+	"auth0_client_id": "wX9CQBr7ED5s6XEwEuDm8cd5eTWXgZkG",
+	"auth0_audience": "https://gander.eu.auth0.com/api/v2/"
 }
