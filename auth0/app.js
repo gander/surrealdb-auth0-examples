@@ -114,7 +114,6 @@ const createUpdateUser = async () => {
 			email: auth0User.email,
 			name: auth0User.name,
 			nickname: auth0User.nickname,
-			picture: auth0User.picture
 		}),
 		headers: {
 			"Accept": "application/json",
